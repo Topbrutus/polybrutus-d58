@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the official Zenodo DOI when this preprint is published."
+title: "Polybrutus 58D: Exact 63-Point Euclidean Metric and Fifty-Twofold Ideal Graph Mode"
+type: software
+authors:
+  - family-names: St-Pierre
+    given-names: Gabriel
+version: "0.1.0"
+date-released: 2026-11-21
+license: MIT
+repository-code: https://github.com/Topbrutus/polybrutus-d58
+abstract: "Exact synthetic 63-point Euclidean metric with 1953 squared-distance labels, affine rank 58, and separate ideal graph."
