@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d58
 abstract: "Exact synthetic 63-point Euclidean metric with 1953 squared-distance labels, affine rank 58, and separate ideal graph."
+doi: 10.5281/zenodo.24431283
+url: https://doi.org/10.5281/zenodo.24431283
